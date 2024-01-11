@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "approvaltests.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/approvals/ApprovalTests.Swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "87810edc6c7a092ad5644396cd6d8fe79957b626"
+      }
+    }
+  ],
+  "version" : 2
+}
